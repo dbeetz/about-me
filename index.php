@@ -13,8 +13,11 @@
 		<title>About Me, Devon Beets!</title>
 	</head>
 	<body>
-		<h1>Devon Beets: Web Developer in Training</h1>
 
+		<!-- Begin Header -->
+		<header>
+		<h1>Devon Beets: Web Developer in Training</h1>
+		</header>
 
 	<!-- Start Main Content -->
 	<main>
