@@ -7,6 +7,6 @@
 		<title>About Me, Devon Beets!</title>
 	</head>
 	<body>
-		<h1>Web Developer in Training</h1>
+		<h1>Web Developer in Training!</h1>
 	</body>
 </html>
