@@ -16,7 +16,7 @@
 
 		<!-- Begin Header -->
 		<header>
-		<h1>Devon Beets: Web Developer in Training</h1>
+		<h1>Devon Beets</h1>
 		</header>
 
 	<!-- Start Main Content -->
@@ -33,5 +33,18 @@
 				  src="https://www.youtube.com/embed/kS4vE217gI4" frameborder="0" allowfullscreen>
 		</iframe>
 	</main>
+
+		<!-- Begin Footer-->
+		<footer>
+			<p>Contact me:</p>
+
+			<!-- Unordered List -->
+			<ul>
+				<li>dbeetzz@gmail.com</li>
+				<li>dbeets@cnm.edu</li>
+				<li>(505) 280-5614</li>
+			</ul>
+			&copy; 2016
+		</footer>
 	</body>
 </html>
