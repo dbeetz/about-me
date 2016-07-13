@@ -1,3 +1,8 @@
 body {
+	background: #cff8ff;
 	color: darkblue;
+	font-size: larger;
+	margin: auto;
+	padding: 100px;
+	width: 1000px;
 }
