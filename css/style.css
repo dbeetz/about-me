@@ -1,3 +1,11 @@
+head {
+	background: #16b8ff;
+	margin: 0;
+	border: 100px;
+	padding: 100px;
+	font-size: larger;
+}
+
 header {
 	background: linear-gradient(#16b8ff, #cff8ff);
 	color: #0004ff;
@@ -8,8 +16,7 @@ body {
 	background: #cff8ff;
 	color: darkblue;
 	font-size: large;
-	border: #77ddff;
-	border: 10px;
+	border: 100px;
 	margin: 0;
 	width: 100%;
 }
