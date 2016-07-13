@@ -2,7 +2,11 @@ body {
 	background: #cff8ff;
 	color: darkblue;
 	font-size: larger;
-	margin: auto;
-	padding: 100px;
+	border: #77ddff;
 	width: 1000px;
+}
+footer {
+	background: #bcecff;
+	color: #3645ff;
+	font-size: medium;
 }
