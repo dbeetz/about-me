@@ -32,7 +32,7 @@
 		<img src="images/DevonBeetsSelfieHalfSize.png" alt="Devon Beets" />
 
 		<!-- Begin Text -->
-		<p id="first paragraph">Hello there! <br/> My name is Devon Beets, and I am a web developer in training at the Deep Dive Coding Bootcamp at CNM! I am fabricating this webpage for practice purposes and to get exposure to coding in HTML, CSS, and JavaScript! :) I am looking forward to learning as much as I can about these languages and others in the weeks to come! To expand upon myself, I love my family, friends, and several hobbies including playing guitar, soccer, and snowboarding! Here next is a video of my friend and I snowboarding in Angel Fire, New Mexico:</p>
+		<p id="first paragraph"><strong>Hello there! </strong><br/> My name is Devon Beets, and I am a web developer in training at the Deep Dive Coding Bootcamp at CNM! I am fabricating this webpage for practice purposes and to get exposure to coding in HTML, CSS, and JavaScript! :) I am looking forward to learning as much as I can about these languages and others in the weeks to come! To expand upon myself, I love my family, friends, and several hobbies including playing guitar, soccer, and snowboarding! Here next is a video of my friend and I snowboarding in Angel Fire, New Mexico:</p>
 		</div>
 
 		<!-- Insert Video -->
