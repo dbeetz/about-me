@@ -1,6 +1,6 @@
 
 body {
-	background: linear-gradient(#16b8ff, #cff8ff);
+	background: linear-gradient(#cff8ff, #16b8ff);
 	color: darkblue;
 	font-size: large;
 	font-family: 'Open Sans', sans-serif;
@@ -14,9 +14,13 @@ body {
 	text-align: center;
 }
 
-.photo-and-text {
+.first-paragraph {
 	text-align: center;
 	display: flex;
+}
+
+.first-paragraph {
+
 }
 
 .video {
