@@ -27,7 +27,7 @@
 	<!-- Start Main Content -->
 	<main>
 
-		<h2>About Me</h2>
+		<h2 class="awesome-title">About Me</h2>
 		<!-- Organize content with Div -->
 		<div class="first-paragraph">
 
@@ -47,7 +47,7 @@
 	</main>
 
 		<!-- Begin Footer-->
-		<footer>
+		<footer id="footie">
 			<p><strong>Contact me:</strong></p>
 
 			<!-- Unordered Contact List -->
