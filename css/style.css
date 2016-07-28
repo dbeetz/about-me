@@ -1,3 +1,21 @@
+html,
+body {
+	font-size: 14px;
+
+}
+
+h1 {
+	font-size: 2em;
+}
+
 .first-paragraph {
-	background: yellow;
+	background: url("../images/1862104-1920x1080-[DesktopNexus.com].jpg") center center;
+	height: 1000px;
+	color: navy;
+	border: 7px solid #0b93ff;
+	font-family: sans-serif;
+	font-size: 16px;
+	padding: 20px 50px 5px 500px;
+	margin: 50px;
+
 }
